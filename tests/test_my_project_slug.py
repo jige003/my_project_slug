@@ -6,7 +6,6 @@ import pytest
 
 from click.testing import CliRunner
 
-from my_project_slug import my_project_slug
 from my_project_slug import cli
 
 
