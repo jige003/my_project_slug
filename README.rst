@@ -26,6 +26,10 @@ my cookiecutter_learn github repo
 * Free software: MIT license
 * Documentation: https://my-project-slug.readthedocs.io.
 
+ChangeLog
+-------
+
+#### Fix issue (#2)
 
 Features
 --------
