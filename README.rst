@@ -27,7 +27,7 @@ my cookiecutter_learn github repo
 * Documentation: https://my-project-slug.readthedocs.io.
 
 ChangeLog
--------
+-------------------------
 
 #### Fix issue (#2)
 
